@@ -1,4 +1,4 @@
-# Digit-Recognizer-ML-NaiveBayes
+# Machine Learning: Digit Recognizer
 
 
 **Data Source**: The data set comes from the **Kaggle Digit Recognizer competition**. 
